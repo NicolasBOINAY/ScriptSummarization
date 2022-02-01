@@ -17,7 +17,7 @@ Finally to generate summaries, we use the `Eval_Sum.ipynb` to generate summaries
 
 ## Data 
 
-The data used in this repository comes from the [Scriptbase Corpus](https://github.com/EdinburghNLP/scriptbase) and we also use the `screenplays_scene_segmentation.py` from [TRIPOD](https://github.com/ppapalampidi/TRIPOD).
+The data used in this repository comes from the [Scriptbase Corpus](https://github.com/EdinburghNLP/scriptbase) and we also used the `screenplays_scene_segmentation.py` from [TRIPOD](https://github.com/ppapalampidi/TRIPOD).
 In the directory `data` you can find examples of what we did for different movies. 
 
 
